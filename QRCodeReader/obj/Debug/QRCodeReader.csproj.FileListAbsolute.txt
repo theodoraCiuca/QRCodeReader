@@ -1,0 +1,11 @@
+D:\QRCodeReader\QRCodeReader\obj\Debug\QRCodeReader.csproj.CoreCompileInputs.cache
+C:\Work\work\QRCodeReader\QRCodeReader\bin\Debug\QRCodeReader.exe.config
+C:\Work\work\QRCodeReader\QRCodeReader\bin\Debug\QRCodeReader.exe
+C:\Work\work\QRCodeReader\QRCodeReader\bin\Debug\QRCodeReader.pdb
+C:\Work\work\QRCodeReader\QRCodeReader\obj\Debug\QRCodeReader.csprojAssemblyReference.cache
+C:\Work\work\QRCodeReader\QRCodeReader\obj\Debug\QRCodeReader.csproj.CoreCompileInputs.cache
+C:\Work\work\QRCodeReader\QRCodeReader\obj\Debug\QRCodeReader.exe
+C:\Work\work\QRCodeReader\QRCodeReader\obj\Debug\QRCodeReader.pdb
+C:\Work\work\QRCodeReader\QRCodeReader\bin\Debug\Newtonsoft.Json.dll
+C:\Work\work\QRCodeReader\QRCodeReader\bin\Debug\Newtonsoft.Json.xml
+C:\Work\work\QRCodeReader\QRCodeReader\obj\Debug\QRCodeReader.csproj.CopyComplete
